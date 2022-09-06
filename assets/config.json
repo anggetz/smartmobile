@@ -1,0 +1,9 @@
+{
+  "api": {
+    "host": "localhost",
+    "schema": "http",
+    "version": "v1",
+    "port": 30001
+  }
+
+}
